@@ -1,2 +1,2 @@
 this is a text file
-new data is added. 
+this line is only modified in branch 2
